@@ -4,7 +4,7 @@ Sitio estático de indicadores del municipio de **Benahavís** (Málaga, código
 alimentado por un pipeline reproducible en Python que descarga, normaliza y versiona datos de
 fuentes públicas oficiales.
 
-**Sitio publicado:** https://josehino.github.io/observatorio-benahavis/
+**Sitio publicado:** https://ammaconsulting.github.io/observatorio-benahavis/
 **Autoría técnica:** Consultoría AMMA · **Destinatario:** Ayuntamiento de Benahavís
 
 ---
@@ -24,7 +24,7 @@ gráfico. El rastro de lo consultado y descartado vive en el inventario de fuent
 Benahavís tiene unos 9.500 habitantes y cae por debajo de varios umbrales de difusión
 estadística. Las consecuencias están documentadas en
 [`docs/inventario-fuentes.md`](docs/inventario-fuentes.md) y resumidas en la
-[página de metodología](https://josehino.github.io/observatorio-benahavis/metodologia.html):
+[página de metodología](https://ammaconsulting.github.io/observatorio-benahavis/metodologia.html):
 
 - **No hay serie municipal de pernoctaciones hoteleras.** La Encuesta de Ocupación Hotelera se
   difunde por zonas y puntos turísticos, y la ficha del IECA aplica secreto estadístico con la
@@ -111,7 +111,7 @@ dibujado y el exterior atenuado, porque una mancha de densidad sin límite se de
 Pedro y Estepona y parece decir que hay viviendas allí.
 
 La capa de calor usa la **rampa térmica del [mapa de VUT de
-Marbella](https://josehino.github.io/observatorio-turistico-marbella/mapa-vut/)** y su mismo
+Marbella](https://ammaconsulting.github.io/observatorio-turistico-marbella/mapa-vut/)** y su mismo
 pincel por nivel de zoom.
 
 **La densidad no se dibuja sobre la coordenada del registro.** El RTA georreferencia por *parcela
@@ -229,6 +229,6 @@ El código se publica bajo licencia MIT (ver [`LICENSE`](LICENSE)).
 
 Los **datos** pertenecen a sus organismos productores y se redistribuyen conforme a sus
 respectivas condiciones de reutilización, detalladas en la
-[página de metodología](https://josehino.github.io/observatorio-benahavis/metodologia.html).
+[página de metodología](https://ammaconsulting.github.io/observatorio-benahavis/metodologia.html).
 Al reutilizarlos debe citarse la fuente original —INE, IECA, SEPE, Seguridad Social, Junta de
 Andalucía, SEGITTUR, AEMET o Ministerio de Hacienda—, no este observatorio.
