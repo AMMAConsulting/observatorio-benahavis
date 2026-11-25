@@ -1522,24 +1522,7 @@
   "nota": "Afiliaciones por municipio de RESIDENCIA del trabajador, no por centro de trabajo. El asterisco de origen («menos de 5») se publica como hueco."
  },
  "deuda_viva": {
-  "serie": [
-   {
-    "t": "2022",
-    "v": 0.0
-   },
-   {
-    "t": "2023",
-    "v": 0.0
-   },
-   {
-    "t": "2024",
-    "v": 0.0
-   },
-   {
-    "t": "2025",
-    "v": 0.0
-   }
-  ],
+  "serie": [],
   "unidad": "miles de euros",
   "referencia": "a 31 de diciembre de cada ejercicio"
  },
@@ -1562,5 +1545,5 @@
  ],
  "fuente": "INE · DIRCE, empresas por municipio (tabla 4721) · IECA/BADEA, afiliaciones por régimen (consulta 876) · Ministerio de Hacienda, deuda viva de las entidades locales",
  "ambito": "municipal",
- "actualizado": "2026-11-05T13:25:54Z"
+ "actualizado": "2026-11-25T16:43:16Z"
 }

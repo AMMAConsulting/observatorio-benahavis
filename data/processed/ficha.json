@@ -1089,7 +1089,8 @@
    "2021",
    "2022",
    "2023",
-   "2024"
+   "2024",
+   "2025"
   ],
   "serie": {
    "Hombres": [
@@ -1266,6 +1267,12 @@
      "Nacimientos": 27.0,
      "Defunciones": 23.0,
      "Crecimiento vegetativo": 4.0
+    },
+    {
+     "t": "2025",
+     "Nacimientos": 32.0,
+     "Defunciones": 32.0,
+     "Crecimiento vegetativo": 0.0
     }
    ],
    "Mujeres": [
@@ -1442,6 +1449,12 @@
      "Nacimientos": 56.0,
      "Defunciones": 18.0,
      "Crecimiento vegetativo": 38.0
+    },
+    {
+     "t": "2025",
+     "Nacimientos": 36.0,
+     "Defunciones": 22.0,
+     "Crecimiento vegetativo": 14.0
     }
    ],
    "Ambos sexos": [
@@ -1618,6 +1631,12 @@
      "Nacimientos": 83.0,
      "Defunciones": 41.0,
      "Crecimiento vegetativo": 42.0
+    },
+    {
+     "t": "2025",
+     "Nacimientos": 68.0,
+     "Defunciones": 54.0,
+     "Crecimiento vegetativo": 14.0
     }
    ]
   }
@@ -4436,5 +4455,5 @@
  "nota": "Mismas variables que la ficha municipal del IECA, pero con su serie. La ficha (smex99.xls) solo publica el último valor de cada una; el histórico está en BADEA, el banco de datos del propio IECA, que obliga a pedir año por año.",
  "fuente": "IECA · BADEA, consultas del Sistema de Información Multiterritorial de Andalucía (SIMA)",
  "ambito": "municipal",
- "actualizado": "2026-11-05T13:25:54Z"
+ "actualizado": "2026-11-25T16:43:16Z"
 }

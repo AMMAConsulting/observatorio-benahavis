@@ -1,13 +1,13 @@
 {
  "rta": {
-  "total_inscripciones": 2263,
-  "plazas_totales": 15191,
-  "plazas_alojamiento": 15191,
+  "total_inscripciones": 2269,
+  "plazas_totales": 15236,
+  "plazas_alojamiento": 15236,
   "por_tipo": {
    "Vivienda de uso turístico": {
-    "establecimientos": 2252,
-    "plazas": 14296,
-    "unidades": 6593
+    "establecimientos": 2258,
+    "plazas": 14341,
+    "unidades": 6612
    },
    "Vivienda turística de alojamiento rural": {
     "establecimientos": 6,
@@ -102,7 +102,7 @@
    },
    {
     "t": "2024",
-    "v": 319
+    "v": 318
    },
    {
     "t": "2025",
@@ -110,7 +110,7 @@
    },
    {
     "t": "2026",
-    "v": 89
+    "v": 96
    }
   ],
   "acumulado_altas": [
@@ -172,15 +172,15 @@
    },
    {
     "t": "2024",
-    "v": 1892
+    "v": 1891
    },
    {
     "t": "2025",
-    "v": 2174
+    "v": 2173
    },
    {
     "t": "2026",
-    "v": 2263
+    "v": 2269
    }
   ],
   "puntos": [
@@ -12745,14 +12745,6 @@
     "lon": -5.054274
    },
    {
-    "nombre": "MONTE MAYOR Nº 4",
-    "tipo": "Vivienda de uso turístico",
-    "categoria": "",
-    "plazas": 10,
-    "lat": 36.518832,
-    "lon": -5.069791
-   },
-   {
     "nombre": "LA RESERVA DE ALCUZCUZ Nº 31",
     "tipo": "Vivienda de uso turístico",
     "categoria": "",
@@ -17975,9 +17967,41 @@
     "plazas": 8,
     "lat": 36.474071,
     "lon": -5.061098
+   },
+   {
+    "nombre": "MONTEMAYOR J1",
+    "tipo": "Vivienda de uso turístico",
+    "categoria": "",
+    "plazas": 12,
+    "lat": 36.51878,
+    "lon": -5.071992
+   },
+   {
+    "nombre": "EL HERROJO 36",
+    "tipo": "Vivienda de uso turístico",
+    "categoria": "",
+    "plazas": 8,
+    "lat": 36.517985,
+    "lon": -4.996317
+   },
+   {
+    "nombre": "FINCA DE JASMINE",
+    "tipo": "Vivienda de uso turístico",
+    "categoria": "",
+    "plazas": 9,
+    "lat": 36.498706,
+    "lon": -5.033434
+   },
+   {
+    "nombre": "FINCA DE JASMINE",
+    "tipo": "Vivienda de uso turístico",
+    "categoria": "",
+    "plazas": 9,
+    "lat": 36.498706,
+    "lon": -5.033434
    }
   ],
-  "alojamientos_sin_coordenadas": 36,
+  "alojamientos_sin_coordenadas": 39,
   "alojamientos_coordenada_erronea": 3,
   "crs_origen": "EPSG:25830",
   "crs_puntos": "EPSG:4326"
@@ -18203,5 +18227,5 @@
  "advertencia": "El Registro de Turismo de Andalucía mide oferta inscrita administrativamente; la estadística experimental del INE mide oferta anunciada en plataformas de intermediación. Miden universos distintos y no deben compararse ni sumarse.",
  "fuente": "Junta de Andalucía · OpenRTA · e INE · Viviendas turísticas (tablas 39363 y 39366)",
  "ambito": "municipal",
- "actualizado": "2026-11-05T13:25:54Z"
+ "actualizado": "2026-11-25T16:43:16Z"
 }

@@ -358,7 +358,7 @@
     "lon_h": -4.997583,
     "parcela_m2": 31845.0,
     "parcela_viviendas": 107,
-    "parcela_vut": 31
+    "parcela_vut": 32
    },
    {
     "ref": "VUT/MA/00835",
@@ -1711,7 +1711,7 @@
     "lon_h": -4.997583,
     "parcela_m2": 31845.0,
     "parcela_viviendas": 107,
-    "parcela_vut": 31
+    "parcela_vut": 32
    },
    {
     "ref": "VUT/MA/03728",
@@ -8232,10 +8232,10 @@
     "lat": 36.517985,
     "lon": -4.996317,
     "lat_h": 36.517331,
-    "lon_h": -4.99749,
+    "lon_h": -4.997388,
     "parcela_m2": 31845.0,
     "parcela_viviendas": 107,
-    "parcela_vut": 31
+    "parcela_vut": 32
    },
    {
     "ref": "VUT/MA/21157",
@@ -9190,11 +9190,11 @@
     "uso_privado": "N",
     "lat": 36.517985,
     "lon": -4.996317,
-    "lat_h": 36.517331,
+    "lat_h": 36.517586,
     "lon_h": -4.997388,
     "parcela_m2": 31845.0,
     "parcela_viviendas": 107,
-    "parcela_vut": 31
+    "parcela_vut": 32
    },
    {
     "ref": "VUT/MA/24133",
@@ -11013,11 +11013,11 @@
     "uso_privado": null,
     "lat": 36.517985,
     "lon": -4.996317,
-    "lat_h": 36.517586,
-    "lon_h": -4.997388,
+    "lat_h": 36.51814,
+    "lon_h": -4.997465,
     "parcela_m2": 31845.0,
     "parcela_viviendas": 107,
-    "parcela_vut": 31
+    "parcela_vut": 32
    },
    {
     "ref": "VUT/MA/28310",
@@ -13676,11 +13676,11 @@
     "uso_privado": null,
     "lat": 36.517985,
     "lon": -4.996317,
-    "lat_h": 36.51814,
+    "lat_h": 36.518337,
     "lon_h": -4.997465,
     "parcela_m2": 31845.0,
     "parcela_viviendas": 107,
-    "parcela_vut": 31
+    "parcela_vut": 32
    },
    {
     "ref": "VUT/MA/38020",
@@ -14731,11 +14731,11 @@
     "uso_privado": null,
     "lat": 36.517985,
     "lon": -4.996317,
-    "lat_h": 36.518337,
-    "lon_h": -4.997465,
+    "lat_h": 36.516905,
+    "lon_h": -4.997244,
     "parcela_m2": 31845.0,
     "parcela_viviendas": 107,
-    "parcela_vut": 31
+    "parcela_vut": 32
    },
    {
     "ref": "VUT/MA/35934",
@@ -17442,11 +17442,11 @@
     "uso_privado": null,
     "lat": 36.517985,
     "lon": -4.996317,
-    "lat_h": 36.516905,
-    "lon_h": -4.997244,
+    "lat_h": 36.517177,
+    "lon_h": -4.997136,
     "parcela_m2": 31845.0,
     "parcela_viviendas": 107,
-    "parcela_vut": 31
+    "parcela_vut": 32
    },
    {
     "ref": "VUT/MA/40364",
@@ -17539,10 +17539,10 @@
     "lat": 36.517985,
     "lon": -4.996317,
     "lat_h": 36.517177,
-    "lon_h": -4.997136,
+    "lon_h": -4.997032,
     "parcela_m2": 31845.0,
     "parcela_viviendas": 107,
-    "parcela_vut": 31
+    "parcela_vut": 32
    },
    {
     "ref": "VUT/MA/40533",
@@ -19424,11 +19424,11 @@
     "uso_privado": null,
     "lat": 36.517985,
     "lon": -4.996317,
-    "lat_h": 36.517177,
-    "lon_h": -4.997032,
+    "lat_h": 36.518278,
+    "lon_h": -4.997132,
     "parcela_m2": 31845.0,
     "parcela_viviendas": 107,
-    "parcela_vut": 31
+    "parcela_vut": 32
    },
    {
     "ref": "VUT/MA/43878",
@@ -21473,11 +21473,11 @@
     "uso_privado": null,
     "lat": 36.517985,
     "lon": -4.996317,
-    "lat_h": 36.518278,
+    "lat_h": 36.518475,
     "lon_h": -4.997132,
     "parcela_m2": 31845.0,
     "parcela_viviendas": 107,
-    "parcela_vut": 31
+    "parcela_vut": 32
    },
    {
     "ref": "VUT/MA/47849",
@@ -21545,11 +21545,11 @@
     "uso_privado": null,
     "lat": 36.517985,
     "lon": -4.996317,
-    "lat_h": 36.518475,
-    "lon_h": -4.997132,
+    "lat_h": 36.517806,
+    "lon_h": -4.997089,
     "parcela_m2": 31845.0,
     "parcela_viviendas": 107,
-    "parcela_vut": 31
+    "parcela_vut": 32
    },
    {
     "ref": "VUT/MA/48054",
@@ -22961,11 +22961,11 @@
     "uso_privado": null,
     "lat": 36.517985,
     "lon": -4.996317,
-    "lat_h": 36.517806,
+    "lat_h": 36.518001,
     "lon_h": -4.997089,
     "parcela_m2": 31845.0,
     "parcela_viviendas": 107,
-    "parcela_vut": 31
+    "parcela_vut": 32
    },
    {
     "ref": "VUT/MA/50586",
@@ -25077,11 +25077,11 @@
     "uso_privado": "N",
     "lat": 36.517985,
     "lon": -4.996317,
-    "lat_h": 36.518001,
-    "lon_h": -4.997089,
+    "lat_h": 36.517098,
+    "lon_h": -4.996633,
     "parcela_m2": 31845.0,
     "parcela_viviendas": 107,
-    "parcela_vut": 31
+    "parcela_vut": 32
    },
    {
     "ref": "VUT/MA/54106",
@@ -28153,11 +28153,11 @@
     "uso_privado": null,
     "lat": 36.517985,
     "lon": -4.996317,
-    "lat_h": 36.517098,
-    "lon_h": -4.996633,
+    "lat_h": 36.51721,
+    "lon_h": -4.996847,
     "parcela_m2": 31845.0,
     "parcela_viviendas": 107,
-    "parcela_vut": 31
+    "parcela_vut": 32
    },
    {
     "ref": "VUT/MA/59282",
@@ -28633,11 +28633,11 @@
     "uso_privado": null,
     "lat": 36.517985,
     "lon": -4.996317,
-    "lat_h": 36.51721,
-    "lon_h": -4.996847,
+    "lat_h": 36.516794,
+    "lon_h": -4.996708,
     "parcela_m2": 31845.0,
     "parcela_viviendas": 107,
-    "parcela_vut": 31
+    "parcela_vut": 32
    },
    {
     "ref": "VUT/MA/59852",
@@ -33186,11 +33186,11 @@
     "uso_privado": null,
     "lat": 36.517985,
     "lon": -4.996317,
-    "lat_h": 36.516794,
-    "lon_h": -4.996708,
+    "lat_h": 36.517665,
+    "lon_h": -4.996674,
     "parcela_m2": 31845.0,
     "parcela_viviendas": 107,
-    "parcela_vut": 31
+    "parcela_vut": 32
    },
    {
     "ref": "VUT/MA/67611",
@@ -33805,11 +33805,11 @@
     "uso_privado": null,
     "lat": 36.517985,
     "lon": -4.996317,
-    "lat_h": 36.517748,
-    "lon_h": -4.996621,
+    "lat_h": 36.517804,
+    "lon_h": -4.996674,
     "parcela_m2": 31845.0,
     "parcela_viviendas": 107,
-    "parcela_vut": 31
+    "parcela_vut": 32
    },
    {
     "ref": "VUT/MA/68768",
@@ -35225,7 +35225,7 @@
     "lon_h": -4.996665,
     "parcela_m2": 31845.0,
     "parcela_viviendas": 107,
-    "parcela_vut": 31
+    "parcela_vut": 32
    },
    {
     "ref": "VUT/MA/70921",
@@ -35345,7 +35345,7 @@
     "lon_h": -4.996665,
     "parcela_m2": 31845.0,
     "parcela_viviendas": 107,
-    "parcela_vut": 31
+    "parcela_vut": 32
    },
    {
     "ref": "VUT/MA/71007",
@@ -35465,7 +35465,7 @@
     "lon_h": -4.996542,
     "parcela_m2": 31845.0,
     "parcela_viviendas": 107,
-    "parcela_vut": 31
+    "parcela_vut": 32
    },
    {
     "ref": "VUT/MA/71344",
@@ -37287,30 +37287,6 @@
     "parcela_vut": 1
    },
    {
-    "ref": "VUT/MA/74659",
-    "nombre": "MONTE MAYOR Nº 4",
-    "tipo": "Vivienda de uso turístico",
-    "modalidad": null,
-    "categoria": null,
-    "grupo": "Completa",
-    "plazas": 10,
-    "unidades": 5,
-    "alta": "2024-01-17",
-    "inicio_actividad": "2024-01-17",
-    "direccion": "URBANIZACION MONTE MAYOR Nº 4 Pta/Letra K",
-    "cp": "29679",
-    "titular": "SWISH PROPERTIES, S.L.",
-    "catastro": "44252F7UF1442S0001DK",
-    "uso_privado": null,
-    "lat": 36.518832,
-    "lon": -5.069791,
-    "lat_h": 36.518868,
-    "lon_h": -5.069732,
-    "parcela_m2": 2100.0,
-    "parcela_viviendas": 1,
-    "parcela_vut": 1
-   },
-   {
     "ref": "VUT/MA/74669",
     "nombre": "LA RESERVA DE ALCUZCUZ Nº 31",
     "tipo": "Vivienda de uso turístico",
@@ -37380,7 +37356,7 @@
     "lon_h": -4.996648,
     "parcela_m2": 31845.0,
     "parcela_viviendas": 107,
-    "parcela_vut": 31
+    "parcela_vut": 32
    },
    {
     "ref": "VUT/MA/74755",
@@ -38296,7 +38272,7 @@
     "lon_h": -4.996524,
     "parcela_m2": 31845.0,
     "parcela_viviendas": 107,
-    "parcela_vut": 31
+    "parcela_vut": 32
    },
    {
     "ref": "VUT/MA/76458",
@@ -40518,7 +40494,7 @@
     "lon_h": -4.996313,
     "parcela_m2": 31845.0,
     "parcela_viviendas": 107,
-    "parcela_vut": 31
+    "parcela_vut": 32
    },
    {
     "ref": "VUT/MA/81210",
@@ -41127,7 +41103,7 @@
     "lon_h": -4.996313,
     "parcela_m2": 31845.0,
     "parcela_viviendas": 107,
-    "parcela_vut": 31
+    "parcela_vut": 32
    },
    {
     "ref": "VUT/MA/82553",
@@ -43944,7 +43920,7 @@
     "lon_h": -4.996341,
     "parcela_m2": 31845.0,
     "parcela_viviendas": 107,
-    "parcela_vut": 31
+    "parcela_vut": 32
    },
    {
     "ref": "VUT/MA/87487",
@@ -45696,7 +45672,7 @@
     "lon_h": -4.996341,
     "parcela_m2": 31845.0,
     "parcela_viviendas": 107,
-    "parcela_vut": 31
+    "parcela_vut": 32
    },
    {
     "ref": "VUT/MA/90663",
@@ -45888,7 +45864,7 @@
     "lon_h": -4.996216,
     "parcela_m2": 31845.0,
     "parcela_viviendas": 107,
-    "parcela_vut": 31
+    "parcela_vut": 32
    },
    {
     "ref": "VUT/MA/90903",
@@ -48595,7 +48571,7 @@
     "lon_h": -4.996116,
     "parcela_m2": 31845.0,
     "parcela_viviendas": 107,
-    "parcela_vut": 31
+    "parcela_vut": 32
    },
    {
     "ref": "VUT/MA/94110",
@@ -50721,7 +50697,7 @@
     "lon_h": -4.996015,
     "parcela_m2": 31845.0,
     "parcela_viviendas": 107,
-    "parcela_vut": 31
+    "parcela_vut": 32
    },
    {
     "ref": "VUT/MA/97543",
@@ -51748,7 +51724,7 @@
     "lon_h": -4.996015,
     "parcela_m2": 31845.0,
     "parcela_viviendas": 107,
-    "parcela_vut": 31
+    "parcela_vut": 32
    },
    {
     "ref": "VUT/MA/99401",
@@ -52901,6 +52877,102 @@
     "parcela_m2": 1216.0,
     "parcela_viviendas": 1,
     "parcela_vut": 1
+   },
+   {
+    "ref": "VUT/MA/103132",
+    "nombre": "MONTEMAYOR J1",
+    "tipo": "Vivienda de uso turístico",
+    "modalidad": null,
+    "categoria": null,
+    "grupo": "Completa",
+    "plazas": 12,
+    "unidades": 6,
+    "alta": "2026-11-05",
+    "inicio_actividad": "2026-11-05",
+    "direccion": "URBANIZACION MONTE MAYOR Nº J1 Compl.Dom. PARCELA J1",
+    "cp": "29679",
+    "titular": "-",
+    "catastro": "44252A9UF1442S0001GK",
+    "uso_privado": null,
+    "lat": 36.51878,
+    "lon": -5.071992,
+    "lat_h": 36.518837,
+    "lon_h": -5.07202,
+    "parcela_m2": 2154.0,
+    "parcela_viviendas": 1,
+    "parcela_vut": 1
+   },
+   {
+    "ref": "VUT/MA/103146",
+    "nombre": "EL HERROJO 36",
+    "tipo": "Vivienda de uso turístico",
+    "modalidad": null,
+    "categoria": null,
+    "grupo": "Completa",
+    "plazas": 8,
+    "unidades": 3,
+    "alta": "2026-11-09",
+    "inicio_actividad": "2026-11-07",
+    "direccion": "CONJUNTO LA QUINTA HILLS Nº 5 Plta/Piso 1 Pta/Letra 36 Compl.Dom. EL HERROJO",
+    "cp": "29678",
+    "titular": "-",
+    "catastro": "1334401UF2413S0062XO",
+    "uso_privado": null,
+    "lat": 36.517985,
+    "lon": -4.996317,
+    "lat_h": 36.517331,
+    "lon_h": -4.99749,
+    "parcela_m2": 31845.0,
+    "parcela_viviendas": 107,
+    "parcela_vut": 32
+   },
+   {
+    "ref": "VUT/MA/103279",
+    "nombre": "FINCA DE JASMINE",
+    "tipo": "Vivienda de uso turístico",
+    "modalidad": null,
+    "categoria": null,
+    "grupo": "Completa",
+    "plazas": 9,
+    "unidades": 3,
+    "alta": "2026-11-18",
+    "inicio_actividad": "2026-11-18",
+    "direccion": "VIA BRIJA, URB. FINCA DE JASMINE Nº 89 Compl.Dom. SECTOR LA ALQUERÍA",
+    "cp": "29679",
+    "titular": "-",
+    "catastro": "7912302UF1471S0001ED",
+    "uso_privado": null,
+    "lat": 36.498706,
+    "lon": -5.033434,
+    "lat_h": 36.498718,
+    "lon_h": -5.033519,
+    "parcela_m2": 915.0,
+    "parcela_viviendas": 1,
+    "parcela_vut": 2
+   },
+   {
+    "ref": "VUT/MA/103280",
+    "nombre": "FINCA DE JASMINE",
+    "tipo": "Vivienda de uso turístico",
+    "modalidad": null,
+    "categoria": null,
+    "grupo": "Completa",
+    "plazas": 9,
+    "unidades": 3,
+    "alta": "2026-11-19",
+    "inicio_actividad": "2026-11-18",
+    "direccion": "VIA BRIJA, URB. FINCA DE JASMINE Nº 89",
+    "cp": "29679",
+    "titular": "-",
+    "catastro": "7912302UF1471S0001ED",
+    "uso_privado": null,
+    "lat": 36.498706,
+    "lon": -5.033434,
+    "lat_h": 36.498775,
+    "lon_h": -5.033519,
+    "parcela_m2": 915.0,
+    "parcela_viviendas": 1,
+    "parcela_vut": 2
    }
   ],
   "sin_ubicar": [
@@ -53611,11 +53683,65 @@
     "catastro": "4425258UF1442S0001TK",
     "uso_privado": null,
     "motivo": "sin coordenadas en el registro"
+   },
+   {
+    "ref": "VUT/MA/103140",
+    "nombre": "LA HEREDIA E24",
+    "tipo": "Vivienda de uso turístico",
+    "modalidad": null,
+    "categoria": null,
+    "grupo": "Completa",
+    "plazas": 6,
+    "unidades": 3,
+    "alta": "2026-11-06",
+    "inicio_actividad": "2026-11-06",
+    "direccion": "URBANIZACION LA PERLA DE LA HEREDIA X FASE E24 Esc. 1 Pta/Letra 14 Compl.Dom. UR LA HEREDIA 10[F] Es:1 Pl:00 Pt:14 E24 29678 BENAHAVIS [MÁLAGA]",
+    "cp": "29678",
+    "titular": "-",
+    "catastro": "0540714UF2403N0014IP",
+    "uso_privado": null,
+    "motivo": "sin coordenadas en el registro"
+   },
+   {
+    "ref": "VUT/MA/103168",
+    "nombre": "CASA AVALON DE LA HEREDIA",
+    "tipo": "Vivienda de uso turístico",
+    "modalidad": null,
+    "categoria": null,
+    "grupo": "Completa",
+    "plazas": 6,
+    "unidades": 3,
+    "alta": "2026-11-10",
+    "inicio_actividad": "2026-11-10",
+    "direccion": "URBANIZACION LA PERLA DE LA HEREDIA Nº 9 Esc. 6 Pta/Letra 1",
+    "cp": "29678",
+    "titular": "-",
+    "catastro": "0540713UF2403N0006JT",
+    "uso_privado": null,
+    "motivo": "sin coordenadas en el registro"
+   },
+   {
+    "ref": "VUT/MA/103310",
+    "nombre": "LA ALDEA 4 BENAHAVÍS",
+    "tipo": "Vivienda de uso turístico",
+    "modalidad": null,
+    "categoria": null,
+    "grupo": "Completa",
+    "plazas": 5,
+    "unidades": 3,
+    "alta": "2026-11-20",
+    "inicio_actividad": "2026-11-20",
+    "direccion": "PLAZA CAMILO JOSE CELA Nº 1 Esc. 1 Pta/Letra 4",
+    "cp": "29679",
+    "titular": "-",
+    "catastro": "6842207UF1464S0012FX",
+    "uso_privado": null,
+    "motivo": "sin coordenadas en el registro"
    }
   ],
-  "total": 2263,
-  "ubicadas": 2224,
-  "viviendas_ubicadas": 2220,
+  "total": 2269,
+  "ubicadas": 2227,
+  "viviendas_ubicadas": 2223,
   "anyos_alta": [
    "2000",
    "2003",
@@ -53645,12 +53771,12 @@
   "nota": "El cruce se hace por número de inscripción normalizado. Una vivienda anunciada sin inscripción localizada puede estar inscrita con el número mal transcrito en el portal, inscrita en otro municipio, o no estar inscrita."
  },
  "reparto": {
-  "con_huella": 2129,
+  "con_huella": 2132,
   "sin_huella": 91,
-  "parcelas": 554,
+  "parcelas": 555,
   "nota": "El RTA publica una coordenada por parcela catastral, no por vivienda: el 81 % de las viviendas de Benahavís comparte punto con otra y una sola parcela llega a acumular 131. Para el mapa de densidad, las viviendas de cada parcela se reparten sobre las huellas de edificación que el Catastro dibuja en ella, en proporción a la superficie de cada cuerpo. No se sabe en qué portal está cada vivienda: lo que se afirma es que está en alguno de los edificios de su parcela. La coordenada oficial del registro se conserva y es la que usa la ficha de cada vivienda."
  },
- "generado": "2026-11-05T13:34:24Z",
+ "generado": "2026-11-25T17:10:15Z",
  "fuentes": [
   "Junta de Andalucía · Registro de Turismo de Andalucía (OpenRTA)",
   "Turismo Costa del Sol · Big Data, informe de viviendas turísticas",

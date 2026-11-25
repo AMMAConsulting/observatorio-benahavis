@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-05T13:25:54Z",
+ "generado": "2026-11-25T16:43:16Z",
  "series_revisadas": 18,
  "series": [
   "atlas.edad_media",
@@ -75,8 +75,14 @@
    "tipo": "meses_ausentes",
    "detalle": "2 meses sin dato: 2020-05, 2020-06",
    "gravedad": "aviso"
+  },
+  {
+   "serie": "hacienda.deuda_viva",
+   "tipo": "serie_vacia",
+   "detalle": "la fuente no devolvió ningún punto",
+   "gravedad": "error"
   }
  ],
- "errores": 0,
+ "errores": 1,
  "avisos": 9
 }

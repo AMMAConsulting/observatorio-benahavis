@@ -10525,58 +10525,58 @@
    },
    {
     "t": "2025-08",
-    "viajeros": 655776.0,
-    "pernoctaciones": 2717301.0,
+    "viajeros": 655637.0,
+    "pernoctaciones": 2717886.0,
     "estancia_media": 4.14,
-    "ocupacion_plazas": 81.45,
-    "ocupacion_fin_semana": 81.56,
-    "plazas_estimadas": 101007.0,
-    "establecimientos": 524.0,
-    "personal_empleado": 18987.0
+    "ocupacion_plazas": 81.46,
+    "ocupacion_fin_semana": 81.52,
+    "plazas_estimadas": 101114.0,
+    "establecimientos": 525.0,
+    "personal_empleado": 18943.0
    },
    {
     "t": "2025-09",
-    "viajeros": 581658.0,
-    "pernoctaciones": 2220058.0,
-    "estancia_media": 3.81,
-    "ocupacion_plazas": 71.24,
-    "ocupacion_fin_semana": 76.61,
-    "plazas_estimadas": 101185.0,
+    "viajeros": 579343.0,
+    "pernoctaciones": 2224971.0,
+    "estancia_media": 3.84,
+    "ocupacion_plazas": 71.33,
+    "ocupacion_fin_semana": 76.3,
+    "plazas_estimadas": 101374.0,
     "establecimientos": 527.0,
-    "personal_empleado": 18753.0
+    "personal_empleado": 18864.0
    },
    {
     "t": "2025-10",
-    "viajeros": 554061.0,
-    "pernoctaciones": 2141147.0,
+    "viajeros": 554510.0,
+    "pernoctaciones": 2141772.0,
     "estancia_media": 3.86,
-    "ocupacion_plazas": 68.54,
-    "ocupacion_fin_semana": 72.96,
-    "plazas_estimadas": 97852.0,
-    "establecimientos": 504.0,
-    "personal_empleado": 17532.0
+    "ocupacion_plazas": 68.52,
+    "ocupacion_fin_semana": 72.82,
+    "plazas_estimadas": 97928.0,
+    "establecimientos": 505.0,
+    "personal_empleado": 17503.0
    },
    {
     "t": "2025-11",
-    "viajeros": 353846.0,
-    "pernoctaciones": 1163155.0,
-    "estancia_media": 3.28,
-    "ocupacion_plazas": 52.19,
-    "ocupacion_fin_semana": 58.73,
-    "plazas_estimadas": 73300.0,
-    "establecimientos": 443.0,
-    "personal_empleado": 13026.0
+    "viajeros": 352029.0,
+    "pernoctaciones": 1163723.0,
+    "estancia_media": 3.3,
+    "ocupacion_plazas": 52.18,
+    "ocupacion_fin_semana": 58.58,
+    "plazas_estimadas": 73354.0,
+    "establecimientos": 444.0,
+    "personal_empleado": 13050.0
    },
    {
     "t": "2025-12",
-    "viajeros": 301946.0,
-    "pernoctaciones": 912138.0,
-    "estancia_media": 3.02,
-    "ocupacion_plazas": 45.69,
-    "ocupacion_fin_semana": 53.21,
-    "plazas_estimadas": 63593.0,
-    "establecimientos": 378.0,
-    "personal_empleado": 10597.0
+    "viajeros": 296161.0,
+    "pernoctaciones": 888326.0,
+    "estancia_media": 2.99,
+    "ocupacion_plazas": 45.55,
+    "ocupacion_fin_semana": 53.12,
+    "plazas_estimadas": 62126.0,
+    "establecimientos": 382.0,
+    "personal_empleado": 10377.0
    },
    {
     "t": "2026-01",
@@ -10654,6 +10654,39 @@
     "plazas_estimadas": 99824.0,
     "establecimientos": 513.0,
     "personal_empleado": 21685.0
+   },
+   {
+    "t": "2026-08",
+    "viajeros": 659359.0,
+    "pernoctaciones": 2739246.0,
+    "estancia_media": 4.15,
+    "ocupacion_plazas": 84.48,
+    "ocupacion_fin_semana": 82.08,
+    "plazas_estimadas": 100095.0,
+    "establecimientos": 505.0,
+    "personal_empleado": 21428.0
+   },
+   {
+    "t": "2026-09",
+    "viajeros": 551904.0,
+    "pernoctaciones": 2279317.0,
+    "estancia_media": 4.12,
+    "ocupacion_plazas": 74.03,
+    "ocupacion_fin_semana": 75.86,
+    "plazas_estimadas": 101324.0,
+    "establecimientos": 521.0,
+    "personal_empleado": 20689.0
+   },
+   {
+    "t": "2026-10",
+    "viajeros": 536103.0,
+    "pernoctaciones": 2118092.0,
+    "estancia_media": 3.95,
+    "ocupacion_plazas": 69.5,
+    "ocupacion_fin_semana": 72.35,
+    "plazas_estimadas": 96481.0,
+    "establecimientos": 486.0,
+    "personal_empleado": 18255.0
    }
   ],
   "pernoctaciones_por_residencia": {
@@ -11312,23 +11345,23 @@
     },
     {
      "t": "2025-08",
-     "v": 866102.0
+     "v": 872984.0
     },
     {
      "t": "2025-09",
-     "v": 447700.0
+     "v": 460901.0
     },
     {
      "t": "2025-10",
-     "v": 296638.0
+     "v": 295156.0
     },
     {
      "t": "2025-11",
-     "v": 259209.0
+     "v": 260318.0
     },
     {
      "t": "2025-12",
-     "v": 255656.0
+     "v": 249973.0
     },
     {
      "t": "2026-01",
@@ -11357,6 +11390,18 @@
     {
      "t": "2026-07",
      "v": 713184.0
+    },
+    {
+     "t": "2026-08",
+     "v": 844613.0
+    },
+    {
+     "t": "2026-09",
+     "v": 415393.0
+    },
+    {
+     "t": "2026-10",
+     "v": 283295.0
     }
    ],
    "extranjero": [
@@ -12014,23 +12059,23 @@
     },
     {
      "t": "2025-08",
-     "v": 1851199.0
+     "v": 1844902.0
     },
     {
      "t": "2025-09",
-     "v": 1772358.0
+     "v": 1764070.0
     },
     {
      "t": "2025-10",
-     "v": 1844509.0
+     "v": 1846616.0
     },
     {
      "t": "2025-11",
-     "v": 903946.0
+     "v": 903405.0
     },
     {
      "t": "2025-12",
-     "v": 656482.0
+     "v": 638353.0
     },
     {
      "t": "2026-01",
@@ -12059,6 +12104,18 @@
     {
      "t": "2026-07",
      "v": 1863877.0
+    },
+    {
+     "t": "2026-08",
+     "v": 1894633.0
+    },
+    {
+     "t": "2026-09",
+     "v": 1863924.0
+    },
+    {
+     "t": "2026-10",
+     "v": 1834797.0
     }
    ]
   },
@@ -12143,8 +12200,8 @@
    },
    {
     "t": "2025",
-    "pernoctaciones": 21148436.0,
-    "viajeros": 5726635.0,
+    "pernoctaciones": 21131315.0,
+    "viajeros": 5717028.0,
     "ocupacion_media": 62.46
    }
   ],
@@ -12183,7 +12240,7 @@
    },
    {
     "mes": 9,
-    "ocupacion_media": 72.52
+    "ocupacion_media": 72.54
    },
    {
     "mes": 10,
@@ -12195,7 +12252,7 @@
    },
    {
     "mes": 12,
-    "ocupacion_media": 45.6
+    "ocupacion_media": 45.57
    }
   ],
   "anyos_estacionalidad": [
@@ -12206,15 +12263,15 @@
    "2025"
   ],
   "ultimo": {
-   "t": "2026-07",
-   "viajeros": 632316.0,
-   "pernoctaciones": 2577061.0,
-   "estancia_media": 4.07,
-   "ocupacion_plazas": 80.08,
-   "ocupacion_fin_semana": 81.75,
-   "plazas_estimadas": 99824.0,
-   "establecimientos": 513.0,
-   "personal_empleado": 21685.0
+   "t": "2026-10",
+   "viajeros": 536103.0,
+   "pernoctaciones": 2118092.0,
+   "estancia_media": 3.95,
+   "ocupacion_plazas": 69.5,
+   "ocupacion_fin_semana": 72.35,
+   "plazas_estimadas": 96481.0,
+   "establecimientos": 486.0,
+   "personal_empleado": 18255.0
   },
   "ambito": "zona_turistica",
   "es_proxy": true,
@@ -12225,5 +12282,5 @@
  "fuente": "INE · Medición del turismo a partir de la posición de los teléfonos móviles y Encuesta de Ocupación Hotelera por zonas turísticas (ambas vía Dataestur, SEGITTUR)",
  "ambito": "municipal",
  "es_proxy": false,
- "actualizado": "2026-11-05T13:25:54Z"
+ "actualizado": "2026-11-25T16:43:16Z"
 }
