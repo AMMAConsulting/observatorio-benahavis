@@ -73,5 +73,7 @@ jobs:
             echo 'Sin cambios en los datos: no se genera commit.'
           else
             git commit -m "datos: actualización automática $(date -u +'%Y-%m-%d')"
-            git push
+            # La pasada tarda ~30 min: si entretanto alguien ha subido algo, se rebasa
+            # en vez de perder los datos por un push rechazado.
+            git pull --rebase origin main && git push
           fi
