@@ -4,7 +4,9 @@ name: Actualizar datos del observatorio
 # ya han publicado el mes anterior. También se puede lanzar a mano.
 on:
   schedule:
-    - cron: '30 5 5 * *'
+    # Semanal (lunes). Con una sola pasada el día 5 el paro del SEPE (que sale
+    # hacia el día 4-11) entraba muchas veces con un mes de retraso.
+    - cron: '36 5 * * 1'
   workflow_dispatch:
     inputs:
       bloques:
